@@ -189,7 +189,7 @@ Development model
 - Centralized API client and defensive mapping
 - Abort-friendly hooks with enabled flags and proper cleanup
 
-Repo: https://github.com/awfl-us/awfl-us
+Repo: https://github.com/awfl-us/web
 
 ## Design principles
 
@@ -215,7 +215,7 @@ Repo: https://github.com/awfl-us/awfl-us
 - DSL (Maven Central): https://central.sonatype.com/artifact/us.awfl/dsl_3
 - workflow-utils: https://github.com/awfl-us/workflow-utils
 - Workflows: https://github.com/awfl-us/workflows
-- Web UI: https://github.com/awfl-us/awfl-us
+- Web UI: https://github.com/awfl-us/web
 
 ## License
 
