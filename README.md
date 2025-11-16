@@ -21,7 +21,7 @@ Use as much or as little as you need: import the DSL in Scala, ship agents, run 
   - Small utilities for LLM chat, context reads, locks, and environment helpers
 - Workflows (Scala): https://github.com/awfl-us/workflows
   - Reusable agent traits (mixins), example agents, and workflow building blocks
-- Web UI (React): https://github.com/awfl-us/awfl-us
+- Web UI (React): https://github.com/awfl-us/web
   - Sessions and Workflow UI for exploring runs, context, tasks, and agent links
 
 ## Quick start
