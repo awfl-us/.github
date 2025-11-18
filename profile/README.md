@@ -1,4 +1,4 @@
-# AWFL — Open Source Agents and Workflow Suite
+# AWFL — Agent Workflow Language
 
 Website: https://awfl.us
 
